@@ -8,7 +8,7 @@
 
 ![风格案例](assets/example-watercolor-sketch.jpeg)
 
-> 风格案例：新闻现场速写（证词场景），本 skill 的风格锚定样本。风格不限于法庭场景。
+> 风格案例：新闻现场速写，本 skill 的风格锚定样本。
 
 ## 功能
 
