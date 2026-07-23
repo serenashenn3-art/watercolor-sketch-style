@@ -31,8 +31,6 @@ Claude Code / Codex / Kimi / Hermes —— 任何支持 Skill 目录的 AI Agent
   <img src="assets/example-watercolor-sketch.jpeg" width="100%" alt="风格锚定样本：新闻纪实水彩速写">
 </p>
 
-<sub>风格锚定样本：一张现场新闻速写。**风格不限于法庭场景** —— 任何题材都能套用这套视觉语言。</sub>
-
 ## 案例：一篇《Deep Listening》文章的全套配图
 
 **下面 4 张图全部由本 skill 的工作流产出** —— 从文章中提取关键场景，逐张生成，风格严格统一（无签名、无日期）：
